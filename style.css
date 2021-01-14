@@ -4,7 +4,9 @@
 }
 
 @media (max-width: 768px) {
-    .about-flex,
+    .about-flex{
+        
+    }
     .cart-flex {
         display: flex;
         flex-direction: column-reverse;
